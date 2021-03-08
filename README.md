@@ -1,16 +1,16 @@
-## What is about this bot ?
-
-### This bot uploads telegram files to MixDrop.co, File.io.
+## What is about File to Link bot ?
+### This bot is upload File to MixDrop & File.io and Sent Direct Download Link
+### This bot for Telegram File to Direct Download Link
 ### Usage: Send any file, and the bot will upload it to MixDrop.co, File.io
 
 ### Heroku Deploy
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhijith-cloud/Telegram-MixDrop-Bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/samebanezar001/File-Link-Bot/)
 
 # Installation
 #### Clone 
 
 ```sh
-git clone https://github.com/Abhijith-cloud/TelegramFiletoCloud.git
+git clone https://github.com/samebanezar001/File-Link-Bot.git
 
 cd TelegramFiletoCloud
 
@@ -37,6 +37,4 @@ class Config:
 ```sh
 python3 -m bot
 ```
-## :clap:  Supporters
-[![Stargazers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://reporoster.com/stars/Abhijith-cloud/TelegramFiletoCloud)](https://github.com/Abhijith-cloud/TelegramFiletoCloud/stargazers)
-[![Forkers repo roster for @Abhijith-cloud/TelegramFiletoCloud](https://reporoster.com/forks/Abhijith-cloud/TelegramFiletoCloud)](https://github.com/Abhijith-cloud/TelegramFiletoCloud/network/members)
+
