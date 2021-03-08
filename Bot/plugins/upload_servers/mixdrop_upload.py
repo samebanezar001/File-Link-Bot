@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-# This is bot coded by Abhijith-cloud and used for educational purposes only
-# https://github.com/Abhijith-cloud
-# Copyright ABHIJITH N T
+# This is bot coded by FoxmanTech and used for educational purposes only
+# https://github.com/samebanezar001/File-Link-Bot
+# Copyright FOXMANTECH
 # Thank you https://github.com/pyrogram/pyrogram
 
 
@@ -60,14 +60,14 @@ async def mixFileup(file, client, bot, s_time):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            "DOWNLOAD URL",
+                            " DOWNLOAD ",
                             url=f"{dl_b}"
                         )
                     ],
                         [
                             InlineKeyboardButton(
-                                "🗂 SOURCE",
-                                url="https://github.com/Abhijith-cloud/"
+                                " SUBSCRIBE ",
+                                url="https://youtube.com/channel/UCoKCBjZoppsIhn5-hVfzeOQ"
                             )
                         ]])
             )
