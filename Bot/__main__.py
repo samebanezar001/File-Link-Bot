@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # This is bot coded by Abhijith-cloud and used for educational purposes only
-# https://github.com/Abhijith-cloud
-# Copyright ABHIJITH N T
+# https://github.com/samebanezar001/File-Link-Bot
+# Copyright FOXMANTECH
 # Thank you https://github.com/pyrogram/pyrogram
 
 import pyrogram
