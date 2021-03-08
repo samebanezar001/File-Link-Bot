@@ -1,7 +1,7 @@
 {
-    "name": "Telegram MixDrop Bot",
+    "name": "File to link bot",
     "description": "This bot uploads telegram files to MixDrop.co,File.io.",
-    "repository": "https://github.com/Abhijith-cloud/Telegram-MixDrop-Bot/",
+    "repository": "https://github.com/samebanezar001/File-Link-Bot/",
     "keywords": [
       "telegram",
       "pyrogram",
